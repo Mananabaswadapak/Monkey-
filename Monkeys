@@ -1,0 +1,15 @@
+query_id: 9805599387031372000
+proof: b5ee9c72010101010046000087800be0ac9f6bec08f07b6ae0639c39ecd1511a9a9adb4dbc9b6445697241adfb0000220171de9eef42fcaf0b7a63749b4a157b230a5e571fd7dd2f5addc2db283f272331
+amount: "20000000000000"
+sender_addr: 0:54a788908e2d8252acd4dfb5c34aeec8ff41caa54e9d1026677a132f296169f8
+current:
+  kind_out: false
+  limit: "33254642674"
+  next: null
+swap_params:
+  deadline: 0
+  recipient_addr:
+""UQC5hZhoDds2G81xQuYHfmyW7U7HL76InCirrATQa3eyvvig
+  referral_addr: ""
+  fulfill_payload: 10
+  reject_payload: 0
